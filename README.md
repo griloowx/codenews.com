@@ -1,5 +1,3 @@
-Aulas do curso.dev.
+projeto que estou realizando junto as aulas do curso.dev Filipe Deschamps. 
 
-Clone do projeto OpenSource TabNews https://www.tabnews.com.br/.
-
-No curso irei aprender do zero criar algo realmente real e funcional. Mãos a obra.
+codenews.com.br 
