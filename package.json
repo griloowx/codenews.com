@@ -1,5 +1,5 @@
 {
-  "name": "clone-tabnews",
+  "name": "codenews.com.br",
   "version": "1.0.0",
   "description": "Aulas do curso.dev.",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "lint:check": "prettier --check .",
     "lint:fix": "prettier --write .",
     "test": "jest",
-    "test:watch":"jest --watch"
+    "test:watch": "jest --watch"
   },
   "author": "",
   "license": "MIT",
