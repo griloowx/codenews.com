@@ -1,4 +1,4 @@
 function Home() {
-  return <h1>Curtiu meu domínio?</h1>;
+  return <h1>Uma comunidade para iniciantes em programação.</h1>;
 }
 export default Home;
