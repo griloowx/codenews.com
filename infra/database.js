@@ -1,9 +1,13 @@
-import database from "../../../../infra/database.js";
+import { Client } from "pg";
 
-async function status(request, response) {
-  const result = await database.query("SELECT 1 + 1 as sum;");
-  console.log(result.rows);
-  response.status(200).json({ chave: "valor" });
+async function query(queryObject) {
+  const client = new Client({
+    host: process.env.POSTGRES_HOST,
+    port: process.env.POSTGRES_PORT,
+    user: process.env.POSTGRES_USER,
+    database: process.env.POSTGRES_DATABASE,
+    password: process.env.POSTGRES_PASSWORD,
+  });
+  await client.connect();
+  const result = await client.query(queryObject);
 }
-
-export default status;
