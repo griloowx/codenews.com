@@ -1,5 +1,10 @@
 {
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
+<<<<<<< HEAD
   "/_document": "pages/_document.js"
+=======
+  "/_document": "pages/_document.js",
+  "/api/v1/status": "pages/api/v1/status.js"
+>>>>>>> 0be58f4 (adicionando `database.js`)
 }
