@@ -107,11 +107,7 @@
 /******/ 	
 /******/ 	/* webpack/runtime/getFullHash */
 /******/ 	!function() {
-<<<<<<< HEAD
-/******/ 		__webpack_require__.h = function() { return "caacfe370227dce0"; }
-=======
-/******/ 		__webpack_require__.h = function() { return "d01caedf133eb5f0"; }
->>>>>>> 0be58f4 (adicionando `database.js`)
+/******/ 		__webpack_require__.h = function() { return "d05bb4d7c8078f54"; }
 /******/ 	}();
 /******/ 	
 /******/ 	/* webpack/runtime/global */
