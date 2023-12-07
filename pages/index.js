@@ -1,9 +1,7 @@
 function Home() {
   return (
     <h1>
-      Uma comunidade para iniciantes em programação.
-      <br />
-      Em construção. Jhonnyssom Silva
+  Curso em andamento...
     </h1>
   );
 }
