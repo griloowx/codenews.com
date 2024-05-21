@@ -1,5 +1,10 @@
-function Home() {
-  return <h1>Teste</h1>;
+export default function Home() {
+  return (
+    <>
+      <h1>CODENEWS</h1>
+      <h2>Em construção</h2>
+    </>
+  )
 }
 
-export default Home;
+
