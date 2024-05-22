@@ -4,7 +4,5 @@ export default function Home() {
       <h1>CODENEWS</h1>
       <h2>Em construção</h2>
     </>
-  )
+  );
 }
-
-
