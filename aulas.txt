@@ -1,1 +1,1 @@
-https://curso.dev/web/banco-de-dados-local-instalando
+https://curso.dev/web/criar-modulo-database
