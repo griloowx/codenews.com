@@ -1,1 +1,1 @@
-https://curso.dev/web/docker-dominou-mundo
+https://curso.dev/web/banco-de-dados-local-instalando
