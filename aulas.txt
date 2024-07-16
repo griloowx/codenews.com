@@ -1,1 +1,1 @@
-https://curso.dev/web/variaveis-de-ambiente-implementando-docker-compose
+https://curso.dev/web/commit-dotenv
